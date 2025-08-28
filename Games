@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "time": "9am - 10am",
+    "date": "Aug-28",
+    "fullname": "Keith Morris",
+    "player": [
+      {
+        "newPlayer": "John"
+      },
+      {
+        "newPlayer": "Jim"
+      },
+      {
+        "newPlayer": "George"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "time": "11am - 12noon",
+    "date": "Aug-30",
+    "fullname": "Keith Morris",
+    "player": [
+      {
+        "newPlayer": "John"
+      },
+      {
+        "newPlayer": "Jim"
+      },
+      {
+        "newPlayer": "Geroge"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "time": "5pm - 6pm",
+    "date": "Sep-11",
+    "fullname": "Keith Morris",
+    "player": [
+      {
+        "newPlayer": "John"
+      },
+      {
+        "newPlayer": "Jim"
+      },
+      {
+        "newPlayer": "George"
+      }
+    ]
+  }
+]
