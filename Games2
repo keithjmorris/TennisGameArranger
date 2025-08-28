@@ -3,7 +3,28 @@
     "id": 1,
     "time": "8.00 to 9.00",
     "date": "30th August",
-    "fullname": "Bill Smith",
+    "fullname": " Smith",
+    "player": "John Jones"
+  },
+{
+    "id": 2,
+    "time": "10.00 to 11.00",
+    "date": "31st August",
+    "fullname": "Ken Smith",
+    "player": "John Jones"
+  },
+{
+    "id": 3,
+    "time": "14.00 to 15.00",
+    "date": "3rd September",
+    "fullname": "Jim Smith",
+    "player": "John Jones"
+  },
+{
+    "id": 4,
+    "time": "18.00 to 19.00",
+    "date": "10th September",
+    "fullname": "James Smith",
     "player": "John Jones"
   }
 ]
