@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "time": "9am - 10am",
     "date": "2025-08-31",
+    "time": "9am - 10am",
     "players": [
       {
         "player": "John"
@@ -17,8 +17,8 @@
   },
   {
     "id": 2,
-    "time": "11am - 12noon",
     "date": "2025-09-01",
+    "time": "11am - 12noon",
     "players": [
       {
         "player": "John"
@@ -33,8 +33,8 @@
   },
   {
     "id": 3,
-    "time": "5pm - 6pm",
     "date": "2025-09-04",
+    "time": "5pm - 6pm",
     "players": [
       {
         "player": "John"
